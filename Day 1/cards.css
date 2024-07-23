@@ -1,0 +1,15 @@
+.card-img{
+    width: 100%;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+}
+.card{
+    border: 1px solid lightgray;
+    width:300px;
+    border-radius: 15px;
+    font-family: sans-serif;
+    margin:20px auto;
+}
+.card-body{
+    padding: 8px;
+}
